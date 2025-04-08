@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAplicativo</string>
+    <string name="send">Enviar</string>
+    <string name="title">Escolha SIM ou NÃO</string>
+    <string name="number_hint">Sim ou Não</string>
+    <string name="number_text">Digite um numero entre 6 e 15</string>
+</resources>
